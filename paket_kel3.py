@@ -1,7 +1,7 @@
 # PEMBAGIAN FUNGSI
-# Febri Dimiyati: code 2 & 3
-# Moh. Nukas Herdiyansah: code 1 & 8
-# Putra Rais Hakim: code
+# Febri Dimyati: code 2 & 3
+# Moh. Nukhas Herdiansyah: code 1 & 7
+# Putra Rais Hakim: code 4,5,6
 
 # Catatan: data paket disimpan sebagai TUPLE (nama, berat, kode)
 # Karena tuple immutable, setiap "perubahan" menghasilkan tuple baru.
